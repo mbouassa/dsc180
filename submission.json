@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "mbouassa/final:latest",
+    "build-script": "python run.py"
+}
